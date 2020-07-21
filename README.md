@@ -24,10 +24,10 @@ Install docker and docker-compose on centOS 8
  
 ## Links
 
- - https://linuxconfig.org/how-to-install-docker-in-rhel-8
+ - [how-to-install-docker-in-rhel-8](https://linuxconfig.org/how-to-install-docker-in-rhel-8)
  - https://docs.docker.com/engine/install/centos/
- - https://medium.com/@anuketjain007/installation-of-docker-fails-on-centos-8-with-error-package-containerd-io-f7a338b34a71
- - https://forums.docker.com/t/docker-ce-on-centos-8/81648
- - https://docs.docker.com/engine/install/linux-postinstall/
+ - [Docker fails on CentOS 8 with Error package containerd.io](https://medium.com/@anuketjain007/installation-of-docker-fails-on-centos-8-with-error-package-containerd-io-f7a338b34a71)
+ - [Error Docker-ce on CentOS 8](https://forums.docker.com/t/docker-ce-on-centos-8/81648)
+ - [Postinstall](https://docs.docker.com/engine/install/linux-postinstall/)
  
  
